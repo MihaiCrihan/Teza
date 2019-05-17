@@ -1,0 +1,12 @@
+instalare
+cli
+workspace create app
+serve aplication
+Store
+bootstrap
+routing 
+json server
+
+
+
+---resources
