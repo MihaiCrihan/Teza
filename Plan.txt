@@ -1,12 +1,11 @@
 instalare////////////////////////////////
 cli//////////////////////////////////////
 workspace create app/////////////////////
-serve aplication
-Store
-bootstrap
-routing 
-json server 
+serve aplication/////////////////////////
 
-http clind   ANGULAr
----resources VUEJS
+
+
+Store
+routing********* 
+structura si crearea componentei 
 
